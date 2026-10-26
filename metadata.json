@@ -1,0 +1,6 @@
+{
+  "name": "Tahrirchi - Matn Tahrirlash va Imlo Tekshirish",
+  "description": "O'zbek, rus va ingliz tillarida matn xatolarini tuzatuvchi, imlo, tinish belgilari va grammatika tekshiruvchi aqlli veb-ilova.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
